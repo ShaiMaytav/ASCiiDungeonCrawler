@@ -1,0 +1,45 @@
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\FinalProject_ShaiMaytav.exe.config
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\FinalProject_ShaiMaytav.exe
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\FinalProject_ShaiMaytav.pdb
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csprojAssemblyReference.cache
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csproj.CoreCompileInputs.cache
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.exe
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.pdb
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl1.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl2.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl3.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl4.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\lvl5.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl6.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl7.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl10.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl8.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl9.txt
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Pastel.dll
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Pastel.xml
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csproj.CopyComplete
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\SFX\gachi.wav
+D:\codes\c#\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\SFX\Wilhelm.wav
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\SFX\gachi.wav
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\SFX\Wilhelm.wav
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl1.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl2.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl4.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\lvl5.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl6.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl7.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl3.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl10.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl8.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Lvl9.txt
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\FinalProject_ShaiMaytav.exe.config
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\FinalProject_ShaiMaytav.exe
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\FinalProject_ShaiMaytav.pdb
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Pastel.dll
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\bin\Debug\Pastel.xml
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csproj.AssemblyReference.cache
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csproj.SuggestedBindingRedirects.cache
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csproj.CoreCompileInputs.cache
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.csproj.CopyComplete
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.exe
+C:\Tiltan\Y1\C#\FinalProject_ShaiMaytav2.0 (1)\FinalProject_ShaiMaytav\FinalProject_ShaiMaytav\obj\Debug\FinalProject_ShaiMaytav.pdb
